@@ -14,5 +14,5 @@ function renderBooks(books) {
 }
 
 document.addEventListener('DOMContentLoaded', renderBooks() {
-  fetchBooks()
+  return fetchBooks()
 })
