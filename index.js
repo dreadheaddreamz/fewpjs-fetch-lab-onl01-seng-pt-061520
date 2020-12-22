@@ -13,6 +13,6 @@ function renderBooks(books) {
   })
 }
 
-document.addEventListener('DOMContentLoaded', renderBooks() {
+document.addEventListener('DOMContentLoaded', function renderBooks() {
   return fetchBooks()
 });
